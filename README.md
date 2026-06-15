@@ -34,60 +34,166 @@ My work focuses on:
 
 ---
 
-## 🛠️ Tech Stack
+<h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <!-- Android & Mobile -->
-  <a href="https://developer.android.com/jetpack/compose" target="_blank">
-    <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
-  </a>
-  <a href="https://kotlinlang.org/docs/home.html" target="_blank">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  </a>
-  <a href="https://openjdk.org" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
+<p align="left">
 
-  <!-- Full Stack Web / MERN -->
-  <a href="https://reactjs.org/docs/getting-started.html" target="_blank">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  </a>
-  <a href="https://nodejs.org/en/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  </a>
-  <a href="https://expressjs.com/en/starter/installing.html" target="_blank">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </a>
+<!-- Java -->
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
 
-  <!-- Backend -->
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  </a>
+<!-- Kotlin -->
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
+</a>
 
-  <!-- Languages -->
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
+<!-- Android -->
+<a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+</a>
 
-  <!-- Tools -->
-  <a href="https://firebase.google.com/docs" target="_blank">
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
-  </a>
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://www.postman.com/api-documentation/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  </a>
+<!-- Jetpack Compose -->
+<a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg" alt="jetpack" width="40" height="40"/>       
+</a>
+
+<!-- Spring -->
+<a href="https://spring.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+</a>
+
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+</a>
+
+<!-- SQLite -->
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+</a>
+
+<!-- React -->
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+</a>
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+</a>
+
+<!-- Express -->
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  alt="express" width="40" height="40" />     
+</a>
+
+<!-- JavaScript -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<!-- TypeScript -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+</a>
+
+<!-- Python -->
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+
+<!-- Scikit Learn -->
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<!-- Git -->
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+</a>
+
+<!-- Linux -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</a>
+
+<!-- Firebase -->
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+</a>
+
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+</a>
+
+<!-- IntelliJ -->
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/>
+</a>
+
+
+<!-- LangChain -->
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" alt="langchain" width="40" height="40"/>
+</a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank" rel="noreferrer">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+</a>
+
+<!-- ChromaDB -->
+<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/109936543?s=200&v=4" alt="chromadb" width="40" height="40"/>
+</a>
+
+<!-- MCP -->
+<a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer">
+  <img src="https://avatars.githubusercontent.com/u/182288589?s=200&v=4" alt="mcp" width="40" height="40"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+<!-- Prometheus -->
+<a href="https://prometheus.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+</a>
+
+<!-- Grafana -->
+<a href="https://grafana.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+</a>
+
+
+
+<!-- Google Colab -->
+<a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="colab" width="40" height="40"/>
+</a>
+
+
 </p>
-
----
 
 ## 📊 GitHub Stats
 
