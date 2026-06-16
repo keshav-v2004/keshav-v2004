@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I’m <strong>Keshav Verma</strong></h1>
+<!-- <h1 align="center">Hi 👋, I’m <strong>Keshav Verma</strong></h1>
 <p align="center">
-  <em>Full-Stack Web and Mobile Developer, eager to tackle complex challenges and build impactful solutions</em>
+  <em>Building Intelligent Systems, Developer Tools, and Production-Ready Software</em>
 </p>
 
 <p align="center">
@@ -16,21 +16,39 @@
   <a href="mailto:keshavcse.ucs1536@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+</p> -->
+
+<h1 align="center">Hi 👋, I'm Keshav Verma</h1>
+<h3 align="center">Building Intelligent Systems, Developer Tools, and Production-Ready Software</h3>
+
+
+* 🔭 I’m currently working on **AI Systems, MCP Servers, and Backend Engineering Projects**
+
+* 🌱 I’m currently learning **LLMOps, Distributed Systems, and System Design**
+
+* 👯 I’m looking to collaborate on **AI Applications, Developer Tools, and Open Source Projects**
+
+
+
+
+* 📫 How to reach me **[keshavcse.ucs1536@gmail.com](mailto:keshavcse.ucs1536@gmail.com)**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/keshav-verma-544a2228a/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav-verma" height="30" width="40" />
+</a>
+
+
+<a href="https://keshav-verma.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+</a>
+
 </p>
 
 
-
-
----
-
-## 👨‍💻 About Me  
-I’m a passionate developer building **modern Android apps with Jetpack Compose** and **scalable web systems using MERN and Spring Boot**. I enjoy solving real-world problems by integrating clean architecture, REST APIs, and intuitive user experiences across platforms.
-
-My work focuses on:
-- 📱 Android apps with Kotlin & modern UI
-- 🌐 Full-stack web with React, Node.js, Express & MongoDB
-- ⚙️ Backend systems using Spring Boot & JWT authentication
-- 🧠 Integrating AI SDKs and real-time communication features
 
 ---
 
@@ -212,5 +230,5 @@ My work focuses on:
 ---
 
 <p align="center">
-  <em>“Building mobile, web, and backend systems one project at a time.”</em>
+  <em>“Learning, building, and shipping software that solves real-world problems”</em>
 </p>
